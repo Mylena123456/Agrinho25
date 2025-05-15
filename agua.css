@@ -1,0 +1,11 @@
+.header-custom {
+    background-color: black;
+    text-align: center;
+    padding: 16px; /* ou py-4 do Bootstrap */
+  }
+  .header-custom h1 {
+    color: white;
+  }
+  .header-custom h3 {
+    color: yellow; /* ou use a classe 'text-warning' do Bootstrap */
+  }
